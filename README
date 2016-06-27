@@ -1,0 +1,3 @@
+# 注意一点
+
+apue头文件中定义的err_sys啥的在随书源代码的lib/error.c中实现的，不能仅仅引入apue.h
